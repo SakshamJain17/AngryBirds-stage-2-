@@ -1,0 +1,7 @@
+Parent // sravani
+extends
+children //viraaj
+
+
+bird  extends parentclass//
+super() //inherit the properties of the parent 
